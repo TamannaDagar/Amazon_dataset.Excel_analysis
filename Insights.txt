@@ -1,0 +1,20 @@
+📊 Amazon Sales Data – Pivot Table Insights
+1️⃣ Category Concentration
+
+Computer and Electronics Accessories contribute the highest number of listed products, indicating strong seller competition and high demand in these segments on Amazon.
+
+2️⃣ Customer Engagement Pattern
+
+A small number of product categories account for a major share of total customer reviews, suggesting that customer attention is concentrated around popular accessory-based products.
+
+3️⃣ Rating vs Discount Relationship
+
+Categories offering higher average discounts do not always receive higher ratings, indicating that product quality and usability influence customer satisfaction more than pricing alone.
+
+4️⃣ High-Performing Categories
+
+Audio accessories and charging-related products show consistently higher average ratings, highlighting strong customer trust and repeat usage in these categories.
+
+5️⃣ Product-Level Impact
+
+A limited set of products generates a disproportionately high number of reviews, confirming that a few best-selling items drive most customer interactions on the platform.
